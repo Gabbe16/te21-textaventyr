@@ -2,17 +2,17 @@
   "parts": [
     {
       "id": 0,
-      "name": "Part 1",
-      "text": "This is part 1",
+      "name": "Accept the Call to Adventure",
+      "text": "You find yourself in the quaint village of Eldoria, where rumors of resistance against Malakar are spreading like wildfire. The village elder, a wise woman named Elara, approaches you with a determined look in her eyes. Brave one, the kingdom needs heroes like you. Will you join the resistance and help us defeat Malakar? There's a secret path through the Whispering Woods that leads to his dark fortress.",
       "options": [
         {
           "id": 0,
-          "text": "This takes you to part 2",
+          "text": "Accept the call and embark on the dangerous journey.",
           "target": 1
         },
         {
           "id": 1,
-          "text": "This takes you to part 3",
+          "text": "Decline the offer and choose to stay in Eldoria, hoping the threat will pass.",
           "target": 2
         }
       ]
@@ -20,7 +20,8 @@
     {
       "id": 1,
       "name": "Part 2",
-      "text": "This is part 2",
+      "image": "acceptAdventure.jpg",
+      "text": "With unwavering resolve, you decide to accept the call and embark on the dangerous journey that lies ahead. The weight of the kingdom's fate rests heavily on your shoulders as you set forth on the treacherous path through the Whispering Woods. The air is thick with an eerie silence, broken only by the distant howls of the monstrous creatures unleashed by Malakar. Armed with determination and a sense of duty, you tread carefully, knowing that every step brings you closer to the dark fortress where the evil sorcerer awaits. As the sun's golden rays filter through the dense canopy, casting shadows on the forest floor, you steel yourself for the challenges that await, driven by the hope of bringing an end to Malakar's reign of terror and restoring peace to the kingdom of Marigold.",
       "options": [
         {
           "id": 2,
@@ -32,7 +33,7 @@
     {
       "id": 2,
       "name": "Part 3",
-      "text": "This is part 3",
+      "text": "Despite the urgent plea from Elara, you choose to decline the offer and opt to stay in Eldoria, clinging to the hope that the looming threat will somehow dissipate on its own. The village, though peaceful at the moment, is not immune to the unease that has gripped the entire kingdom. As you watch the sun's gentle rays illuminate the quaint cottages and cobbled streets, a sense of uncertainty lingers in the air. The distant echoes of destruction serve as a stark reminder of the peril facing Marigold. In the face of this decision, the burden of choosing safety over action weighs heavily on your conscience, leaving you to wonder if the peaceful village can truly remain untouched by the encroaching darkness.",
       "options": [
         {
           "id": 4,
