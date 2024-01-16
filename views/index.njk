@@ -6,8 +6,13 @@
     <img src="/img/MarigoldCompressed.jpg" alt="Cover image">
   </hero>
   <p>This webbpage will take you on an amazing adventure throughout the city of Marigold!</p>
-  <p>Please insert Post code so the player can enter theire name!</p>
   <p>As the sun rose over the kingdom of Marigold, the land was filled with a sense of unease. The evil sorcerer, Malakar, had risen to power and was terrorizing the people with his dark magic. He had unleashed a horde of monstrous creatures on the kingdom, leaving destruction in their wake.</p>
-  <p><a href="/story/0">Click here to begin your story!</a></p>
+
+  <form action="/username" method="post">
+    <label for="username">Enter your name to start your story:</label>
+    <input type="text" id="username" name="username" placeholder="Enter your name here...">
+    <input type="submit" value="submit">
+  </form>
+
 </main>
 {% endblock %}

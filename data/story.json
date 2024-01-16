@@ -2,17 +2,18 @@
   "parts": [
     {
       "id": 0,
-      "name": "Accept the Call to Adventure",
+      "name": "Accept the Call to Adventure [PLAYER]",
+      "image": "EldoriaStart.jpg",
       "text": "You find yourself in the quaint village of Eldoria, where rumors of resistance against Malakar are spreading like wildfire. The village elder, a wise woman named Elara, approaches you with a determined look in her eyes. Brave one, the kingdom needs heroes like you. Will you join the resistance and help us defeat Malakar? There's a secret path through the Whispering Woods that leads to his dark fortress.",
       "options": [
         {
           "id": 0,
-          "text": "Accept the call and embark on the dangerous journey.",
+          "text": "Accept The Call And Embark On The Dangerous Journey.",
           "target": 1
         },
         {
           "id": 1,
-          "text": "Decline the offer and choose to stay in Eldoria, hoping the threat will pass.",
+          "text": "Decline The Offer And Choose To Stay In Eldoria, Hoping The Threat Will Pass.",
           "target": 2
         }
       ]
@@ -25,10 +26,27 @@
       "options": [
         {
           "id": 2,
-          "text": "Go back to start",
-          "target": 0
+          "text": "Go Through The Forest Stealthily",
+          "target": 5
+        },
+        {
+          "id": 3,
+          "text": "Confront The Creatures Head-On",
+          "target": 4
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Fighting The Creatures",
+      "image": "CreatureInForest.jpg",
+      "text": "Choosing to confront the creatures head-on proves to be a perilous decision. The menacing beasts, drawn to the challenge you present, close in swiftly. Despite your best efforts in combat, their strength overwhelms you, and the battle takes a dire turn. The Whispering Woods bear witness to your valiant but ultimately futile struggle. As your vision fades, the haunting howls of the creatures echo through the ancient trees. The kingdom of Marigold, now without its chosen hero, remains ensnared in the clutches of Malakar's darkness. The sacrifice made in the heart of the Whispering Woods serves as a somber reminder of the challenges that befell those who dared to oppose the evil sorcerer."
+    },
+    {
+      "id": 5,
+      "name": "The Winning Fight Against Malakar",
+      "image": "TheDarkFortress.jpg",
+      "text": "Choosing to forge ahead stealthily through the Whispering Woods proves to be a wise decision. Your every step is measured, avoiding the attention of the lurking creatures. The enchanted map from Elara guides you through hidden paths, allowing you to navigate the ancient trees without alerting the guardians of the forest. As you near the outskirts of the dark fortress, you witness the magnitude of Malakar's power. The fortress stands as a formidable bastion, shrouded in a malevolent aura. With a careful approach, you manage to infiltrate the fortress undetected. Inside, you uncover the source of Malakar's dark magic and engage in a decisive battle. The fate of Marigold hangs in the balance, and your stealthy infiltration becomes the key to dismantling the sorcerer's reign. Victorious, you emerge from the fortress to a kingdom bathed in the dawn's light, signaling the end of Malakar's terror and the restoration of peace to the land of Marigold."
     },
     {
       "id": 2,
