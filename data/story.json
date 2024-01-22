@@ -40,19 +40,40 @@
       "id": 4,
       "name": "Fighting The Creatures",
       "image": "CreatureInForest.jpg",
-      "text": "Choosing to confront the creatures head-on proves to be a perilous decision. The menacing beasts, drawn to the challenge you present, close in swiftly. Despite your best efforts in combat, their strength overwhelms you, and the battle takes a dire turn. The Whispering Woods bear witness to your valiant but ultimately futile struggle. As your vision fades, the haunting howls of the creatures echo through the ancient trees. The kingdom of Marigold, now without its chosen hero, remains ensnared in the clutches of Malakar's darkness. The sacrifice made in the heart of the Whispering Woods serves as a somber reminder of the challenges that befell those who dared to oppose the evil sorcerer."
+      "text": "Choosing to confront the creatures head-on proves to be a perilous decision. The menacing beasts, drawn to the challenge you present, close in swiftly. Despite your best efforts in combat, their strength overwhelms you, and the battle takes a dire turn. The Whispering Woods bear witness to your valiant but ultimately futile struggle. As your vision fades, the haunting howls of the creatures echo through the ancient trees. The kingdom of Marigold, now without its chosen hero, remains ensnared in the clutches of Malakar's darkness. The sacrifice made in the heart of the Whispering Woods serves as a somber reminder of the challenges that befell those who dared to oppose the evil sorcerer.",
+      "options": [
+        {
+          "id": 4,
+          "text": "Restart the story",
+          "target": 0
+        }
+      ]
     },
     {
       "id": 5,
       "name": "The Winning Fight Against Malakar",
       "image": "TheDarkFortress.jpg",
-      "text": "Choosing to forge ahead stealthily through the Whispering Woods proves to be a wise decision. Your every step is measured, avoiding the attention of the lurking creatures. The enchanted map from Elara guides you through hidden paths, allowing you to navigate the ancient trees without alerting the guardians of the forest. As you near the outskirts of the dark fortress, you witness the magnitude of Malakar's power. The fortress stands as a formidable bastion, shrouded in a malevolent aura. With a careful approach, you manage to infiltrate the fortress undetected. Inside, you uncover the source of Malakar's dark magic and engage in a decisive battle. The fate of Marigold hangs in the balance, and your stealthy infiltration becomes the key to dismantling the sorcerer's reign. Victorious, you emerge from the fortress to a kingdom bathed in the dawn's light, signaling the end of Malakar's terror and the restoration of peace to the land of Marigold."
+      "text": "Choosing to forge ahead stealthily through the Whispering Woods proves to be a wise decision. Your every step is measured, avoiding the attention of the lurking creatures. The enchanted map from Elara guides you through hidden paths, allowing you to navigate the ancient trees without alerting the guardians of the forest. As you near the outskirts of the dark fortress, you witness the magnitude of Malakar's power. The fortress stands as a formidable bastion, shrouded in a malevolent aura. With a careful approach, you manage to infiltrate the fortress undetected. Inside, you uncover the source of Malakar's dark magic and engage in a decisive battle. The fate of Marigold hangs in the balance, and your stealthy infiltration becomes the key to dismantling the sorcerer's reign. Victorious, you emerge from the fortress to a kingdom bathed in the dawn's light, signaling the end of Malakar's terror and the restoration of peace to the land of Marigold.",
+      "options": [
+        {
+          "id": 5,
+          "text": "Restart the story",
+          "target": 0
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Waiting for the threat to pass",
       "image": "EldoriaVillage.jpg",
-      "text": "Despite the urgent plea from Elara, you choose to decline the offer and opt to stay in Eldoria, clinging to the hope that the looming threat will somehow dissipate on its own. The village, though peaceful at the moment, is not immune to the unease that has gripped the entire kingdom. As you watch the sun's gentle rays illuminate the quaint cottages and cobbled streets, a sense of uncertainty lingers in the air. The distant echoes of destruction serve as a stark reminder of the peril facing Marigold. In the face of this decision, the burden of choosing safety over action weighs heavily on your conscience, leaving you to wonder if the peaceful village can truly remain untouched by the encroaching darkness."
+      "text": "Despite the urgent plea from Elara, you choose to decline the offer and opt to stay in Eldoria, clinging to the hope that the looming threat will somehow dissipate on its own. The village, though peaceful at the moment, is not immune to the unease that has gripped the entire kingdom. As you watch the sun's gentle rays illuminate the quaint cottages and cobbled streets, a sense of uncertainty lingers in the air. The distant echoes of destruction serve as a stark reminder of the peril facing Marigold. In the face of this decision, the burden of choosing safety over action weighs heavily on your conscience, leaving you to wonder if the peaceful village can truly remain untouched by the encroaching darkness.",
+      "options": [
+        {
+          "id": 2,
+          "text": "Restart the story",
+          "target": 0
+        }
+      ]
     }
   ]
 }
